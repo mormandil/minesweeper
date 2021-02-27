@@ -1,0 +1,5 @@
+﻿  minesweeperFull.c
+c:\mor\studies\year_b\c_intro\projects\minesb\minesweeperfullproject\minesweeperfullproject\minesweeperfull.c(105): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\mor\studies\year_b\c_intro\projects\minesb\minesweeperfullproject\minesweeperfullproject\minesweeperfull.c(127): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\mor\studies\year_b\c_intro\projects\minesb\minesweeperfullproject\minesweeperfullproject\minesweeperfull.c(269): warning C4101: 'currentCell': unreferenced local variable
+  minesweeperFullProject.vcxproj -> C:\Mor\Studies\Year_B\C_Intro\projects\minesB\minesweeperFullProject\Debug\minesweeperFullProject.exe
