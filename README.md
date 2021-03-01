@@ -10,7 +10,7 @@
 
 :bulb: BONUS TIPS :
 * You can put a flag on a cell suspicious to be a bomb.
-* The input -1 X (X being a positive number) will open the first X cells.
+* The input **-1 X** (X being a positive number) will open the first X cells.
 
 
 
