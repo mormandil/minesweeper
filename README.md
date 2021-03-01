@@ -13,6 +13,6 @@
 * The input **-1 X** (X being a positive number) will open the first X cells.
 
 
-![Image of general minesweeper](https://image.winudf.com/v2/image1/Y29tLnBhbnVfc2NyZWVuXzBfMTU1NDY2ODA0Ml8wMzM/screen-0.jpg?fakeurl=1&type=.jpg =200x200)
+![Image of general minesweeper](https://image.winudf.com/v2/image1/Y29tLnBhbnVfc2NyZWVuXzBfMTU1NDY2ODA0Ml8wMzM/screen-0.jpg?fakeurl=1&type=.jpg | width=100)
 
 
