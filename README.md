@@ -14,7 +14,7 @@
 
 
 
-<img src="https://image.winudf.com/v2/image1/Y29tLnBhbnVfc2NyZWVuXzBfMTU1NDY2ODA0Ml8wMzM/screen-0.jpg?fakeurl=1&type=.jpg" width="400" height="550"/>
+<img src="https://image.winudf.com/v2/image1/Y29tLnBhbnVfc2NyZWVuXzBfMTU1NDY2ODA0Ml8wMzM/screen-0.jpg?fakeurl=1&type=.jpg" width="400" height="600"/>
 
 
 
