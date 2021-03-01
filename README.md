@@ -8,7 +8,7 @@
  If the player steps on a bomb - THE GAME IS OVER.
  A number cell indicates the amount of mines around that cell.
 
-:bulb:BONUS TIPS :
+:bulb: BONUS TIPS :
 * You can put a flag on a cell suspicious to be a bomb.
 * The input -1 X (X being a positive number) will open the first X cells.
 
